@@ -1,4 +1,3 @@
-
-        handler.execute();
-    }
+public interface IHandler {
+    void execute();
 }
